@@ -1,0 +1,7 @@
+node_modules/
+dist/
+public/
+.vscode
+*.sublime-project
+*.sublime-workspace
+.idea
